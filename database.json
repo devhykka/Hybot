@@ -1,7 +1,7 @@
 {
-    "host": "eu02-sql.pebblehost.com",
-    "user": "customer_761738_hybot",
-    "password": "qah6!W3NKi#",
-    "database": "customer_761738_hybot",
-    "port": 3306
+    "host": host,
+    "user": username,
+    "password": password,
+    "database": database,
+    "port": port
 }
